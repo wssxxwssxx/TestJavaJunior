@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/console-app/console-app.iml" filepath="$PROJECT_DIR$/console-app/console-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-parser-parent.iml" filepath="$PROJECT_DIR$/orders-parser-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser-api/parser-api.iml" filepath="$PROJECT_DIR$/parser-api/parser-api.iml" />
+    </modules>
+  </component>
+</project>
